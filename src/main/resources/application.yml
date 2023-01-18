@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      username: AXE
+      password: AXE
+      host: localhost
+      port: 27017
+      database: aliboucoding
+      authentication-database: admin
